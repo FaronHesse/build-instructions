@@ -11,7 +11,7 @@ Download and unpack the source
 
 ```bash
 wget http://ftp.gromacs.org/pub/gromacs/gromacs-2020.3.tar.gz
-tar -xvf gromacs-2020.2.tar.gz
+tar -xvf gromacs-2020.3.tar.gz
 ```
 
 Setup correct modules
